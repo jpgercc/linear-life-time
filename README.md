@@ -4,7 +4,7 @@
   online course is being fixed, I decided to finish it.
   <br>
   
-  In the end of it, it has passed some hours, the sleep has come again with some jazz music. Have a great nigth! 😴
+  In the end of it, it has passed some hours, the sleep has come again with some easy jazz music. Have a great nigth! 😴
 </p>
 
 <h2>What it do?</h2>
