@@ -19,6 +19,6 @@
 ![image](https://github.com/jpgercc/linear-life-time/assets/115590969/bcce0113-4331-4967-aab0-8c583a2ee856)
 
 <p>
-  Make sure you have <a href='https://docs.python.org/3/library/tkinter.html'>Tkinter</a> installed, <b>which you should have</b> since it's a Python native GUI framework that's built into the Python standard library.
+  Make sure you have <a href='https://docs.python.org/3/library/tkinter.html'>Tkinter</a> installed, <b>which you should</b> since it's a Python native GUI framework that's built into the Python standard library.
 </p>
 
